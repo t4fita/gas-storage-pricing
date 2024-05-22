@@ -14,15 +14,3 @@ The key components of this project include:
 4. Visualization tools for exploring historical data, forecasted prices, and contract pricing scenarios.
 
 By leveraging this codebase, commodity trading desks can make informed decisions about natural gas storage contracts, optimizing strategies based on predicted price differentials across different seasons or time periods.
-
-## Getting Started
-
-[Instructions on how to set up and run the project]
-
-## Contributing
-
-[Guidelines for contributing to the project]
-
-## License
-
-[Information about the license for this project]
